@@ -1,0 +1,36 @@
+//Leonardo 22/11/2021 -
+Creazione UML dei casi d'uso.
+//Tempo impiegato 1 ora -
+
+//Leonardo 28/11/2021 18:55 -
+Creazione classe "Gestione.java" per gestire i metodi relativi ai file.
+Creazione metodi di scrittura e creazione file eseguita.
+
+*Davide*
+Richiesta modifica attributi in minuscolo e get e set in minuscolo per tutte le classi. (Una volta fatto modificherò a mia volta il mio codice).
+
+*Ginevra*
+Attesa main per testare le funzioni. 
+
+//Tempo impiegato 2 ore 54 minuti -
+
+//Davide 29/11/2021
+Creato set per ogni classe.
+Correzione degli attributi e dei metodi get indentati con lettere iniziali minuscole.
+//Tempo 1 ora
+
+//Leonardo 29/11/2021 22:08 -
+Adattamento delle classi consegnate.
+//Tempo impiegato 10 minuti
+
+//Leonardo 5/12/2021 18:21 -
+Creati metodi di salvataggio dati e adattamento al main.
+*Davide* Finire UML classi aggiungendo i nuovi metodi della classe gestione.
+*Ginevra* Rendere il main un ciclo while per un continuo inserimento di progetti o ricerca di progetti, aggiungere gestione delle eccezioni per lo switch case del main.
+//Tempo impiegato 2 ore e 20 minuti.
+
+
+
+
+
+

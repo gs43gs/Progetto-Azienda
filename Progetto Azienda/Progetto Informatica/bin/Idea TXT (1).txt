@@ -1,0 +1,8 @@
+Dipendenti.txt
+NDipendente;Nome;Cognome;Costo orario;Ruolo
+
+Progetto.txt
+NProdotto;Prodotto;Costo iniziale richiesto dal cliente
+
+Attività.txt
+NAttività;Attività; idProgetto; Dipendente (Gestione di più dipendenti tramite ","); Tempo Stimato; Tempo realmente lavorato = 0; Status Attività;
